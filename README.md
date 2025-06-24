@@ -18,8 +18,6 @@ Speech bubbles simulate live dialogue and emphasize clarity, contrast, and profe
 - 💬 Realistic debate structure with 3 rounds and 6 turns  
 - 🧠 Customizable personas  
 - 💡 Rebuttals with new arguments, not just repetition  
-- ✅ Fixed-position Next/Submit button for intuitive navigation  
-- 🎨 Professional UI with contrasting speech bubbles  
 - 👨‍⚖️ Final summary and AI-generated verdict  
 
 ---
