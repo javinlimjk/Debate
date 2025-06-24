@@ -90,27 +90,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 🌍 Deploying on Streamlit Community Cloud (Free)
-
-1. Push your project to GitHub.
-2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud) → Click **“New App”**
-3. Fill in:
-   - **Repo**: `yourusername/persona-debate-agent`
-   - **Main file**: `app.py`
-4. Go to **Settings > Secrets** and add:
-
-```
-TOGETHER_API_KEY = your_api_key_here
-```
-
-5. Click **Deploy**.
-
-✅ Live App: [https://debate-agents.streamlit.app](https://debate-agents.streamlit.app)
-
----
-
 ## ⚠️ Limitations
 
 - **Free-tier LLM**: This app uses a free, public model from Together AI:
